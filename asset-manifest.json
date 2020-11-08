@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sanmeet06/Expense-Tracker.git/static/css/main.82c2be50.chunk.css",
+    "main.js": "/sanmeet06/Expense-Tracker.git/static/js/main.8f90357c.chunk.js",
+    "main.js.map": "/sanmeet06/Expense-Tracker.git/static/js/main.8f90357c.chunk.js.map",
+    "runtime-main.js": "/sanmeet06/Expense-Tracker.git/static/js/runtime-main.ce253b05.js",
+    "runtime-main.js.map": "/sanmeet06/Expense-Tracker.git/static/js/runtime-main.ce253b05.js.map",
+    "static/js/2.2740afcf.chunk.js": "/sanmeet06/Expense-Tracker.git/static/js/2.2740afcf.chunk.js",
+    "static/js/2.2740afcf.chunk.js.map": "/sanmeet06/Expense-Tracker.git/static/js/2.2740afcf.chunk.js.map",
+    "index.html": "/sanmeet06/Expense-Tracker.git/index.html",
+    "precache-manifest.611cde0638650a99b71ca5221a16baf2.js": "/sanmeet06/Expense-Tracker.git/precache-manifest.611cde0638650a99b71ca5221a16baf2.js",
+    "service-worker.js": "/sanmeet06/Expense-Tracker.git/service-worker.js",
+    "static/css/main.82c2be50.chunk.css.map": "/sanmeet06/Expense-Tracker.git/static/css/main.82c2be50.chunk.css.map",
+    "static/js/2.2740afcf.chunk.js.LICENSE.txt": "/sanmeet06/Expense-Tracker.git/static/js/2.2740afcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce253b05.js",
+    "static/js/2.2740afcf.chunk.js",
+    "static/css/main.82c2be50.chunk.css",
+    "static/js/main.8f90357c.chunk.js"
+  ]
+}
